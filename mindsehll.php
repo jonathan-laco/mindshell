@@ -1,7 +1,11 @@
-<!--Coded by jord@root-Exploit  and Sr.Storm
+<!--Coded by jord@root-Exploit  - Sr.Storm
+and MINDSET-INFOSEC
 --------------------------------------------
 https://mindsetsecurity.wordpress.com
 --------------------------------------------
+versão completa em sairá em 2019 com mais funções
+e muito mais complexa 
+
 -->
 <!DOCTYPE html>
 <html>
